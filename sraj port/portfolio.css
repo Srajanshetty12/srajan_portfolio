@@ -96,7 +96,7 @@ h4{
 h6{
 	color:yellow;
 	letter-spacing:2px;
-	font-size:28px:
+	font-size:28px;
 }
 .newslatter form{
 	width: 380px;
@@ -181,8 +181,9 @@ button{
 button:hover{
 	background-color:blue;
 	border: 2px solid #f9004d;
-	cursor: pointer
-	transform: scale(1.3);
+	cursor: pointer;
+	transform: scale(1,3);
+	
 }
 
 .service{
@@ -233,7 +234,7 @@ h5{
 	line-height: 27px;
 	margin-bottom: 25px;
 }
-}
+
 .card .button:hover{
 	background-color: transparent;
 	border: 2px solid #f9004d;
@@ -324,6 +325,7 @@ footer p:nth-child(2){
 .container {
   width: 30%; 
   background-color:silver;
+  border-radius: 30px;
 }
 
 .skills {
@@ -354,7 +356,7 @@ footer p:nth-child(2){
 	background-color: #191919;
 }
 ;
-}
+
 .exp-text{
 	width: 550px;
 	line-height:1.5;
@@ -428,4 +430,5 @@ html,body{
 	margin:0;
 	padding:0;
 	overflow-x:hidden;
+}
 }
