@@ -326,8 +326,6 @@ footer p:nth-child(2){
   width: 30%; 
   background-color:silver;
   border-radius: 30px;
-  align-content: center;
-  justify-content: center;
 }
 
 .skills {
